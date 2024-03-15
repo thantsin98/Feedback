@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ShopDoora\\Feedback\\FeedBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|d:\\shopdoora\\feedback\\feedback\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|solutionrelative:controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|d:\\shopdoora\\feedback\\feedback\\repositories\\feedbackrepo\\feedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|solutionrelative:repositories\\feedbackrepo\\feedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|d:\\shopdoora\\feedback\\feedback\\dtos\\feedbackdto\\getfeedbackresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|solutionrelative:dtos\\feedbackdto\\getfeedbackresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|d:\\shopdoora\\feedback\\feedback\\interfaces\\ifeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|solutionrelative:interfaces\\ifeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|d:\\shopdoora\\feedback\\feedback\\dtos\\feedbackdto\\editfeedbackrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|solutionrelative:dtos\\feedbackdto\\editfeedbackrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|d:\\shopdoora\\feedback\\feedback\\dtos\\feedbackdto\\getfeedbackrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|solutionrelative:dtos\\feedbackdto\\getfeedbackrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|d:\\shopdoora\\feedback\\feedback\\dtos\\feedbackdto\\addfeedbackrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|solutionrelative:dtos\\feedbackdto\\addfeedbackrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|d:\\shopdoora\\feedback\\feedback\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB241B65-3DB4-4834-9BAC-109A74FB2B17}|Feedback.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeedBackController.cs",
+              "DocumentMoniker": "D:\\ShopDoora\\Feedback\\FeedBack\\Controllers\\FeedBackController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedBackController.cs",
+              "ToolTip": "D:\\ShopDoora\\Feedback\\FeedBack\\Controllers\\FeedBackController.cs",
+              "RelativeToolTip": "Controllers\\FeedBackController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:35:11.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetFeedBackRequest.cs",
+              "DocumentMoniker": "D:\\ShopDoora\\Feedback\\FeedBack\\Dtos\\FeedBackDto\\GetFeedBackRequest.cs",
+              "RelativeDocumentMoniker": "Dtos\\FeedBackDto\\GetFeedBackRequest.cs",
+              "ToolTip": "D:\\ShopDoora\\Feedback\\FeedBack\\Dtos\\FeedBackDto\\GetFeedBackRequest.cs",
+              "RelativeToolTip": "Dtos\\FeedBackDto\\GetFeedBackRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:28:25.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditFeedBackRequest.cs",
+              "DocumentMoniker": "D:\\ShopDoora\\Feedback\\FeedBack\\Dtos\\FeedBackDto\\EditFeedBackRequest.cs",
+              "RelativeDocumentMoniker": "Dtos\\FeedBackDto\\EditFeedBackRequest.cs",
+              "ToolTip": "D:\\ShopDoora\\Feedback\\FeedBack\\Dtos\\FeedBackDto\\EditFeedBackRequest.cs",
+              "RelativeToolTip": "Dtos\\FeedBackDto\\EditFeedBackRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:28:10.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedBackRepo.cs",
+              "DocumentMoniker": "D:\\ShopDoora\\Feedback\\FeedBack\\Repositories\\FeedBackRepo\\FeedBackRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\FeedBackRepo\\FeedBackRepo.cs",
+              "ToolTip": "D:\\ShopDoora\\Feedback\\FeedBack\\Repositories\\FeedBackRepo\\FeedBackRepo.cs",
+              "RelativeToolTip": "Repositories\\FeedBackRepo\\FeedBackRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:44:09.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFeedBack.cs",
+              "DocumentMoniker": "D:\\ShopDoora\\Feedback\\FeedBack\\Interfaces\\IFeedBack.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFeedBack.cs",
+              "ToolTip": "D:\\ShopDoora\\Feedback\\FeedBack\\Interfaces\\IFeedBack.cs",
+              "RelativeToolTip": "Interfaces\\IFeedBack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:32:20.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetFeedBackResponse.cs",
+              "DocumentMoniker": "D:\\ShopDoora\\Feedback\\FeedBack\\Dtos\\FeedBackDto\\GetFeedBackResponse.cs",
+              "RelativeDocumentMoniker": "Dtos\\FeedBackDto\\GetFeedBackResponse.cs",
+              "ToolTip": "D:\\ShopDoora\\Feedback\\FeedBack\\Dtos\\FeedBackDto\\GetFeedBackResponse.cs",
+              "RelativeToolTip": "Dtos\\FeedBackDto\\GetFeedBackResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:09:29.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddFeedBackRequest.cs",
+              "DocumentMoniker": "D:\\ShopDoora\\Feedback\\FeedBack\\Dtos\\FeedBackDto\\AddFeedBackRequest.cs",
+              "RelativeDocumentMoniker": "Dtos\\FeedBackDto\\AddFeedBackRequest.cs",
+              "ToolTip": "D:\\ShopDoora\\Feedback\\FeedBack\\Dtos\\FeedBackDto\\AddFeedBackRequest.cs",
+              "RelativeToolTip": "Dtos\\FeedBackDto\\AddFeedBackRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:45:32.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ShopDoora\\Feedback\\FeedBack\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ShopDoora\\Feedback\\FeedBack\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T04:47:31.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

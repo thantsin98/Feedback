@@ -1,0 +1,208 @@
+[
+  {
+    "ContainingType": "Feedback.Controllers.FeedBackController",
+    "Method": "Add",
+    "RelativePath": "api/FeedBack/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addFeedBack",
+        "Type": "Feedback.Dtos.FeedBackDto.AddFeedBackRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Feedback.Dtos.Status.BaseResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Feedback.Controllers.FeedBackController",
+    "Method": "Delete",
+    "RelativePath": "api/FeedBack/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "feedBackId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Feedback.Dtos.Status.BaseResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Feedback.Controllers.FeedBackController",
+    "Method": "Edit",
+    "RelativePath": "api/FeedBack/Edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "feedBackId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "request",
+        "Type": "Feedback.Dtos.FeedBackDto.EditFeedBackRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Feedback.Dtos.Status.BaseResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Feedback.Controllers.FeedBackController",
+    "Method": "Get",
+    "RelativePath": "api/FeedBack/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "ShopId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Feedback.Dtos.FeedBackDto.GetFeedBackResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Feedback.Controllers.FeedBackController",
+    "Method": "GetAll",
+    "RelativePath": "api/FeedBack/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Feedback.Dtos.FeedBackDto.GetFeedBackResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Feedback.Controllers.FeedBackController",
+    "Method": "GetOther",
+    "RelativePath": "api/FeedBack/GetOther",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "ShopId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Feedback.Dtos.FeedBackDto.GetFeedBackResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
